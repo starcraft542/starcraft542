@@ -2,7 +2,7 @@
 - 👀 I’m interested in Graphic Design, Web Dev, Game Design, and Web Design.
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 👀 I'm Looking for remote work in Graphic Design and Web Dev.
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on anything with anyone.
 - 📫 How to contact me DM me on twitter https://twitter.com/mangoart2
 
 <!---
